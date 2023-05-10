@@ -1,2 +1,0 @@
-# Nomecompletojs
-atividade js
